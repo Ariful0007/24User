@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        >
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <androidx.core.widget.NestedScrollView
+                app:layout_behavior="@string/appbar_scrolling_view_behavior"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+            </androidx.core.widget.NestedScrollView>
+            <TextView
+                android:text="BD RIDE Policey"
+                android:background="@drawable/back2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="left"
+                android:gravity="center_vertical"
+                android:textStyle="bold"
+                android:fontFamily="@font/open_sans_bold"
+
+                android:textAlignment="viewStart"
+
+                android:padding="10dp"
+                android:textColor="@color/white"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:textSize="20dp" />
+            <androidx.core.widget.NestedScrollView
+                app:layout_behavior="@string/appbar_scrolling_view_behavior"
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent">
+                <com.codesgood.views.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="20dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/back3"
+                    android:text="✔গোপনীয়তা নীতি.\n\n
+BD RIDE এর গোপনীয়তা নীতি অনুসারে আপনার ব্যক্তিগত ডেটা সংগ্রহ করে এবং প্রক্রিয়া করে।
+গোপনীয়তা নীতি BD RIDE দ্বারা প্রদত্ত সমস্ত পরিষেবার ক্ষেত্রে প্রযোজ্য এবং এর শর্তাবলী এই রেফারেন্স দ্বারা এই চুক্তির একটি অংশ তৈরি করা হয়েছে৷
+এই গোপনীয়তা নীতি বর্ণনা করে যে কীভাবে BD RIDE ড্রাইভার এবং যাত্রীদের কাছ থেকে তথ্য গ্রহণ করে এবং কীভাবে আমরা যাত্রীদের ড্রাইভারের সাথে সংযোগ করতে এবং আমাদের পরিষেবাগুলিকে উন্নত করতে এটি ব্যবহার করি।আমরা সার্বক্ষনিক ভাবে চেষ্টা করছি আপনাকে উন্নত এবং নিরাপদ সেবা দেওয়ার।\n\n
+✔নিবন্ধন তথ্য.
+
+BD RIDE অ্যাকাউন্টে সাইন আপ করার সময় আপনি (ব্যবহারকারী) আমাদের আপনার নাম এবং ফোন নম্বর প্রদান করুন। আমরা আপনার প্রোফাইল থেকে আপনার নাম, লিঙ্গ, প্রোফাইল ফটো এবং আপনার সম্পর্কিত প্রাথমিক তথ্যও পাবো।
+
+
+\n1. BD RIDE আপনার দেওয়া তথ্য  সংগ্রহ এবং তথ্য যাত্রী এবং ড্রাইভার আমাদের প্রদান করে।
+
+\n2. আপনার যে কোনো জরুরি প্রয়োজনে আমাদের সেবাটি গ্রহণ করুন।
+
+\n3. আপনার দেওয়া রিকুয়েষ্টে যদি চালকের আসতে দেরি হয়,তাহলে ৫ থেকে ১৫ মিনিট অপেক্ষা করুন অথবা চালকের সাথে যোগাযোগ করুন।
+
+\n4. রাইডের সময় আপনার সাথে নেওয়া যে কোনো ধরনের অবৈধ মালামালের কোনো প্রকার দায়ভার BD RIDE কর্তৃপক্ষ বা চালক নিবে না।
+
+\n5. রাইডের আগে নিজের সেফটি ঠিক করে নিন।
+
+\n6.BD RIDE সেবা গ্রহন পূর্বক আপনার মালামাল সমূহ নিজ দায়িত্বে রাখবেন,,, মাল চুরি বা হারিয়ে গেলে কতৃপক্ষ দায় ভার নিবে না,,
+
+\n7.সেবা গ্রহনের সময় ড্রাইভার বা কোনো কর্মকর্তা বা কর্মচারী হইতে বাজে ব্যবহার হলে দ্রত মেইন অফিসে যোগাযোগ করবেন,, আমরা একশানে যাবো।
+
+\n8.আমরা সর্বদা আপনাদের সেবায় নিয়োযিত।\n\n
+✔মূল্যপরিশোধ পদ্ধতি.\n\n
+
+
+আপনি যখন আপনার BD RIDE অ্যাকাউন্টে বিকাশ বা নগদে অর্থপ্রদানের পদ্ধতি যোগ করবেন, তখন আমরা আপনার অ্যাকাউন্টের  তথ্য পাব।
+আপনার আর্থিক নিরাপত্তা নিশ্চিত করতে আমরা আমাদের সার্ভারে আপনার অ্যাকাউন্টের তথ্য সংরক্ষণ করবো না।"
+
+
+
+                    android:textColor="@color/white"
+                    android:textSize="12dp" />
+
+            </androidx.core.widget.NestedScrollView>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

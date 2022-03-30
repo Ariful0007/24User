@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "340412845076",
+    "firebase_url": "https://ridesharing-80bc5-default-rtdb.firebaseio.com",
+    "project_id": "ridesharing-80bc5",
+    "storage_bucket": "ridesharing-80bc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340412845076:android:c28df9fe6c8b3588feeb01",
+        "android_client_info": {
+          "package_name": "com.meass.a24admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340412845076-ddad0i4tgrpt0h230bflb4ennil6thqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meass.a24admin",
+            "certificate_hash": "953d242986769e8560f8772aacc500a56e659f9f"
+          }
+        },
+        {
+          "client_id": "340412845076-seajg8ratfhevs2ehmuba28jsg4ejg4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meass.a24admin",
+            "certificate_hash": "3752f4b6d205634fb24a449a74b1bc3f7f4077cb"
+          }
+        },
+        {
+          "client_id": "340412845076-4siusjot97vepgk5k2gthn46oug1il90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKteSpmB6c01vKDQ141lGAMUe6iwn1UcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340412845076-4siusjot97vepgk5k2gthn46oug1il90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340412845076:android:8f6f6f59e661a33bfeeb01",
+        "android_client_info": {
+          "package_name": "com.meass.a24driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340412845076-bvbsh76flt2ljmkcf9918lj7k4h5meah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meass.a24driver",
+            "certificate_hash": "953d242986769e8560f8772aacc500a56e659f9f"
+          }
+        },
+        {
+          "client_id": "340412845076-qjnb0pmdj5tk8pk0q84sffucfn0pp7q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meass.a24driver",
+            "certificate_hash": "7e67a2bb878e2bb325c4261eb46069cb4b11981a"
+          }
+        },
+        {
+          "client_id": "340412845076-4siusjot97vepgk5k2gthn46oug1il90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKteSpmB6c01vKDQ141lGAMUe6iwn1UcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340412845076-4siusjot97vepgk5k2gthn46oug1il90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340412845076:android:fd9846de53b5a9adfeeb01",
+        "android_client_info": {
+          "package_name": "com.meass.a24user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340412845076-4siusjot97vepgk5k2gthn46oug1il90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKteSpmB6c01vKDQ141lGAMUe6iwn1UcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340412845076-4siusjot97vepgk5k2gthn46oug1il90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
